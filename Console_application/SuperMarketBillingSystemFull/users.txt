@@ -1,0 +1,2 @@
+durai@gmail.com,12345,admin,1000.0,0
+duraipandi@gmail.com,12345,customer,800.0,2
